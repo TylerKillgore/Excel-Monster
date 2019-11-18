@@ -1,0 +1,11 @@
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\bin\Debug\netcoreapp3.0\excelMonster.exe
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\bin\Debug\netcoreapp3.0\excelMonster.deps.json
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\bin\Debug\netcoreapp3.0\excelMonster.runtimeconfig.json
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\bin\Debug\netcoreapp3.0\excelMonster.runtimeconfig.dev.json
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\bin\Debug\netcoreapp3.0\excelMonster.dll
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\bin\Debug\netcoreapp3.0\excelMonster.pdb
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\obj\Debug\netcoreapp3.0\excelMonster.csprojAssemblyReference.cache
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\obj\Debug\netcoreapp3.0\excelMonster.AssemblyInfoInputs.cache
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\obj\Debug\netcoreapp3.0\excelMonster.AssemblyInfo.cs
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\obj\Debug\netcoreapp3.0\excelMonster.dll
+C:\Users\tk5143\source\repos\excelMonster\excelMonster\obj\Debug\netcoreapp3.0\excelMonster.pdb
